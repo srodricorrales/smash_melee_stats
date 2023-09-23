@@ -1,0 +1,9 @@
+digraph {
+	A [label="extract_slippi_data.js (Algoritmo)"]
+	B [label="settings.json (Tabla: Settings)"]
+	C [label="stats.json (Tabla: Stats)"]
+	D [label="metadata.json (Tabla: Metadata)"]
+	A -> B
+	A -> C
+	A -> D
+}

@@ -1,0 +1,9 @@
+{
+  "startAt": "2023-09-16T17:44:58Z",
+  "lastFrame": 12221,
+  "players": {
+    "0": { "names": { "netplay": "Egar", "code": "EGAR#415" }, "characters": { "1": 15803 } },
+    "1": { "names": { "netplay": "DRGS", "code": "DRGS#149" }, "characters": { "18": 15803 } }
+  },
+  "playedOn": "dolphin"
+}
